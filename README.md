@@ -67,8 +67,7 @@ Complete a month cost analysis of each Azure resource to give an estimate total 
 | *Azure Service Bus*   |Standard|$9.81/month|
 | *Azure Function App*   |Consumption|0|
 | *Azure App Service Plan*   |S1:1 Core, 1.75 GB RAM,50GB Storage|$$69.35/month|
-| *Azure App Service Plan*   |Total|$139.00
-/month|
+| *Azure App Service Plan*   |Total|$139.0/month|
 | ...                   |         |              |
 
 ## Architecture Explanation
