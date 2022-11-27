@@ -63,12 +63,12 @@ Complete a month cost analysis of each Azure resource to give an estimate total 
 
 | Azure Resource | Service Tier | Monthly Cost |
 | ------------ | ------------ | ------------ |
-| *Azure Postgres Database* |Singer server|$59.64/month|
-| *Azure Service Bus*   |Basic|$0.05/month|
-| *Azure Function App*   |Consumption|Free|
-| *Azure Web App*   |F1|Free|
-| *Azure Storage*   |Basic|$0.1/month|
-| *Azure App Service Plan*   |B1|$13.14/month|
+| *Azure Postgres Database* |Singer server|$60.14/month|
+| *Azure Service Bus*   |Standard|$9.81/month|
+| *Azure Function App*   |Consumption|0|
+| *Azure App Service Plan*   |S1:1 Core, 1.75 GB RAM,50GB Storage|$$69.35/month|
+| *Azure App Service Plan*   |Total|$139.00
+/month|
 | ...                   |         |              |
 
 ## Architecture Explanation
